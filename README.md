@@ -2,9 +2,9 @@
 
 This is a collection of random things that are not really part of a project, system, any specific language or related to any specific framework.
 
-Item in this repository are:
+Items in this repository are:
 
-1. **NOT** for Commercial Use
+1. **NOT** designed/intended for Commercial Use
 2. **NOT** Production Ready
 3. **NOT** Actively Maintained 
 4. Experimental 
